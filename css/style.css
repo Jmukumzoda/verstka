@@ -172,6 +172,7 @@ header {
     font-weight: 600;
     font-size: 20px;
     line-height: 27px;
+    margin-right: 10px;
 }
 
 .btn_2 {
@@ -202,7 +203,8 @@ header {
 }
 
 .div_icon {
-    align-items: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 .img1 {
